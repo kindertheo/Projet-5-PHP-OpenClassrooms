@@ -56,6 +56,6 @@ class MainModel
         return $req;
     }
 
-    //TODO Peut etre mettre en static
+
 
 }
